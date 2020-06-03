@@ -17,6 +17,6 @@ spec:
     spec:
      containers:
      - name: addressbook-pod
-       image: rm150623/addressbook:36
+       image: rm150623/addressbook
        ports:
        - containerPort: 8080
